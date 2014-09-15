@@ -1,1 +1,3 @@
-this is a change introduced in issue4OffOfIssue3 
+that was a change introduced in issue4OffOfIssue3 
+
+Some other fixes here.
